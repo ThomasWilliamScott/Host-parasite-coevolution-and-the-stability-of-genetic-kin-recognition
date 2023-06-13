@@ -1,5 +1,5 @@
 # Host-parasite-coevolution-and-the-stability-of-genetic-kin-recognition
-This repository contains all supplementary code for "Host-parasite coevolution and the stability of genetic kin recognition" (Scott, Grafen &amp; West, unpublished)
+This repository contains all supplementary code for "Host-parasite coevolution and the stability of genetic kin recognition" (Scott, Grafen &amp; West, PNAS 2023)
 
 This repository contains three types of file:
 
